@@ -1,4 +1,4 @@
 mDrop
 =====
 
-The official mDrop respository
+The official mDrop repository
